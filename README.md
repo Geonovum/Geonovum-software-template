@@ -15,3 +15,5 @@ Software bill of standards, idee van project AI ready standaarden & compliance p
 Copyright © 2026 Geonovum. Licensed under the EUPL.
 
 Deze repository valt onder de [EUPL-1.2](LICENSE). Alle taalversies van de EUPL zijn gelijkwaardig; de [Nederlandse tekst](https://eur-lex.europa.eu/legal-content/NL/TXT/?uri=CELEX:32017D0863) staat in het Publicatieblad van de EU. Repositories die van deze template worden gemaakt, krijgen dezelfde licentie; pas het jaartal in de copyrightregel aan.
+
+Deze keuze is gebaseerd op https://developer.overheid.nl/kennisbank/open-source/tutorials/open-source-software-licenties daar staan ook overwegingen waarom je voor een andere licentie zou kunnen kiezen.
