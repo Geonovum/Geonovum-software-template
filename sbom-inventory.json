@@ -1,0 +1,17 @@
+{
+  "repo": ".",
+  "author": { "name": "VUL-IN: naam van de persoon of het team dat verantwoordelijk is voor de SBOM" },
+  "sbomVersion": 1,
+  "lifecycle": "pre-build",
+  "complete": false,
+  "product": {
+    "name": "VUL-IN: naam van de software",
+    "description": "VUL-IN: wat de software doet, in één zin",
+    "supplier": { "name": "Geonovum", "url": "https://www.geonovum.nl" },
+    "license": "EUPL-1.2",
+    "copyright": "Copyright (c) 2026 Geonovum",
+    "vcs": "VUL-IN: https://github.com/Geonovum/<repository>",
+    "website": "VUL-IN: URL waar de software draait, of verwijder dit veld"
+  },
+  "components": []
+}
